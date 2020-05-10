@@ -17,6 +17,7 @@
 ## Limitation and Result of ApplyBayesRule.ipynb
 
 > Limitation 1: We used death distribution data from almost ten years after the study (1999 instead of 1991), and we used death data from the entire United States instead of California alone (which was the original study). 
+
 > Limitation 2: We extrapolated the left-handedness survey results to older and younger age groups, but it's possible our extrapolation wasn't close enough to the true rates for those ages.
 
 - Conclusion
