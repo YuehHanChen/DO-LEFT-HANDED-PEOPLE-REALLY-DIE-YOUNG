@@ -20,10 +20,10 @@
 
 > Limitation 2: We extrapolated the left-handedness survey results to older and younger age groups, but it's possible our extrapolation wasn't close enough to the true rates for those ages.
 
-- Conclusion
-Average dead age of right handedness: 72.81669680889921
-Average dead age of left handedness: 67.69702073317897
-Difference:  5.1196760757202355  years
+- Conclusion:
+- Average dead age of right handedness: 72.81669680889921
+- Average dead age of left handedness: 67.69702073317897
+- Difference:  5.1196760757202355  years
 
 ## Result of HypothesisTesting.ipynb
 
