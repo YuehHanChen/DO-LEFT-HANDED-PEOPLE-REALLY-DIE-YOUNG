@@ -31,5 +31,6 @@ Conclusion:
 
 - The p-value is  0.12209999999999999
 
-Having the 0.12 p-value means that, under the null hypothesis, the probability of [RH's average dead age - LH's average dead age == 9] is 12%, but my alpha is 0.05.
-Therefore, I fail to reject the null hypothesis, because I don't have enough evidence to say that right-handed people average dead age minus right-handed people's dead age is not equal to 9 years.
+- Having the 0.12 p-value means that, under the null hypothesis, the probability of [RH's average dead age - LH's average dead age == 9] is 12%, but my alpha is 0.05.
+
+- Therefore, I fail to reject the null hypothesis.
